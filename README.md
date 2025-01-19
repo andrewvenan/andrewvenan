@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- System analyst at @insv</p>
+<p align="left">- System analyst</p>
 
 ###
 
