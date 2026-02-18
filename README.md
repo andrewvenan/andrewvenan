@@ -1,47 +1,19 @@
-<h2 align="left">About Me</h2>
+# Andrew Venancio
 
-###
+**`Analista de dados`**
 
-<p align="left">- System analyst</p>
+Cursando Ciência de dados na Uninter, com foco em construir uma carreira sólida na área de Ciência de Dados.
+Antes de ingressar na área de tecnologia, atuei no comércio e no atendimento ao cliente, o que desenvolveu minhas habilidades de comunicação, empatia e interpretação de necessidades de negócio. Essa experiência fortaleceu minha visão orientada ao usuário e à solução de problemas
+Atualmente, trabalho como suporte técnico, adquirindo experiência prática com tecnologia, resolução de incidentes, mas agora com foco educacional na área de dados.
 
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrewvenan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewvenan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewvenan&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/andrew-venancio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,aws,azure,python,docker,github,linux,mysql" />
   </a>
-</div>
+</p>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3p2ZDRyOTE5Y3I2YzkxMmtzbjFzaGI1N29xa3pkY2VkOWhzOGRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
-
-###
+<p>
+  <a href="https://www.linkedin.com/in/andrew-venancio/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
