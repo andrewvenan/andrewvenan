@@ -2,9 +2,7 @@
 
 **`Analista de dados`**
 
-Cursando Ciência de dados na Uninter, com foco em construir uma carreira sólida na área de Ciência de Dados.
-Antes de ingressar na área de tecnologia, atuei no comércio e no atendimento ao cliente, o que desenvolveu minhas habilidades de comunicação, empatia e interpretação de necessidades de negócio. Essa experiência fortaleceu minha visão orientada ao usuário e à solução de problemas
-Atualmente, trabalho como suporte técnico, adquirindo experiência prática com tecnologia, resolução de incidentes, mas agora com foco educacional na área de dados.
+### ###
 
 <p align="center">
   <a href="https://skillicons.dev">
